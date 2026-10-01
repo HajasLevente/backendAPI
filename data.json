@@ -1,0 +1,18 @@
+{
+    "osztalyok": [
+      {
+        "id": 1,
+        "nev": "10.A",
+        "szak": "Informatika",
+        "evfolyam": 10
+      }
+    ],
+    "diakok": [
+      {
+        "id": 1,
+        "nev": "Kovács Péter",
+        "email": "kovacs.peter@iskola.hu",
+        "osztaly_id": 1
+      }
+    ]
+  }
